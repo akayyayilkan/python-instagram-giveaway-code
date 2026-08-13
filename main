@@ -1,3 +1,6 @@
+
+# BU KOD MAC BİLGİSAYARLAR İÇİN. YAZILIMI TERMİNALDEN ÇALIŞTIRIN 
+
 cat << 'EOF' > bot.py
 import os
 import sys
