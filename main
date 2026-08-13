@@ -14,9 +14,9 @@ from webdriver_manager.chrome import ChromeDriverManager
 # =========================================================
 # 🎯 BİLGİLERİN, MASAÜSTÜ HAVUZU VE OPTİMİZE EDİLMİŞ SÜRE
 # =========================================================
-INSTAGRAM_USER = "yayilkan18"
-INSTAGRAM_PASS = "20071858MeY"
-POST_URL = "https://www.instagram.com/p/Dbf6sBcom-C/"
+INSTAGRAM_USER = "(kullanıcı ismi)"
+INSTAGRAM_PASS = "(hesap şifresi)"
+POST_URL = "(çekiliş url)"
 
 DESKTOP_PATH = os.path.expanduser("~/Desktop/kullanicilar.txt")
 DOSYA_YOLU = DESKTOP_PATH if os.path.exists(DESKTOP_PATH) else "kullanicilar.txt"
