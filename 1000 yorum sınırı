@@ -14,9 +14,9 @@ from webdriver_manager.chrome import ChromeDriverManager
 # =========================================================
 # 🎯 MAC UYUMLU BİLGİLER (1000 YORUM MODU)
 # =========================================================
-INSTAGRAM_USER = "yayilkan18"
-INSTAGRAM_PASS = "20071858MeY"
-POST_URL = "https://www.instagram.com/p/DbVgpH2tMwi/"
+INSTAGRAM_USER = "username"
+INSTAGRAM_PASS = "şifre"
+POST_URL = "https://www.instagram.com/p/posturl_101010/"
 
 # Masaüstündeki kullanicilar.txt yolunu bulma
 DESKTOP_PATH = os.path.expanduser("~/Desktop/kullanicilar.txt")
